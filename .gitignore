@@ -1,0 +1,12 @@
+*.iml
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+app/build/
+.idea/
+*.apk
+*.aab
+local.properties
+.DS_Store
